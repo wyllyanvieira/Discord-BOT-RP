@@ -72,11 +72,11 @@ Para começar a utilizar o Roleplay Discord Bot, siga os passos abaixo:
    npm install
    ```
 
-3. Configure o arquivo `.env` com as suas credenciais do Discord e outras configurações necessárias:
+3. Configure o arquivo `Configs/config.json` com as suas credenciais do Discord e outras configurações necessárias:
 
-   ```env
-   DISCORD_TOKEN=seu-token-aqui
-   PREFIX=!
+   ```json
+    "token": "",
+    "owner": "",
    ```
 
 4. Execute o bot:
