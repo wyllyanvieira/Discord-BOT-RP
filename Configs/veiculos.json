@@ -1,0 +1,198 @@
+{
+  "Motos": [
+    {
+      "nome": "Shitzu PCJ 600",
+      "modelo": "pcj",
+      "preco": 16000,
+      "imagem": "https://docs.fivem.net/vehicles/pcj.webp"
+    },
+    {
+      "nome": "Nagasaki Shinobi",
+      "modelo": "shinobi",
+      "preco": 1800000,
+      "imagem": "https://docs.fivem.net/vehicles/shinobi.webp"
+    },
+    {
+      "nome": "Pegassi Bati 801",
+      "modelo": "bati",
+      "preco": 180000,
+      "imagem": "https://docs.fivem.net/vehicles/bati.webp"
+    },
+    {
+      "nome": "Shitzu Hakuchou",
+      "modelo": "hakuchou",
+      "preco": 82000,
+      "imagem": "https://docs.fivem.net/vehicles/hakuchou.webp"
+    },
+    {
+      "nome": "Dinka Akuma",
+      "modelo": "akuma",
+      "preco": 120000,
+      "imagem": "https://docs.fivem.net/vehicles/akuma.webp"
+    },
+    {
+      "nome": "Maibatsu Manchez",
+      "modelo": "manchez",
+      "preco": 140000,
+      "imagem": "https://docs.fivem.net/vehicles/manchez.webp"
+    }
+  ],
+  "Carros": [
+    {
+      "nome": "Benefactor Panto",
+      "modelo": "panto",
+      "preco": 15000,
+      "imagem": "https://docs.fivem.net/vehicles/panto.webp"
+    },
+    {
+      "nome": "Karin Sultan",
+      "modelo": "sultan",
+      "preco": 60000,
+      "imagem": "https://docs.fivem.net/vehicles/sultan.webp"
+    },
+    {
+      "nome": "Vapid Dominator",
+      "modelo": "dominator",
+      "preco": 35000,
+      "imagem": "https://docs.fivem.net/vehicles/dominator.webp"
+    },
+    {
+      "nome": "Declasse Sabre Turbo",
+      "modelo": "sabregt",
+      "preco": 20000,
+      "imagem": "https://docs.fivem.net/vehicles/sabregt.webp"
+    },
+    {
+      "nome": "Übermacht Sentinel XS",
+      "modelo": "sentinel",
+      "preco": 85000,
+      "imagem": "https://docs.fivem.net/vehicles/sentinel.webp"
+    },
+    {
+      "nome": "Enus Super Diamond",
+      "modelo": "superd",
+      "preco": 250000,
+      "imagem": "https://docs.fivem.net/vehicles/superd.webp"
+    },
+    {
+      "nome": "Albany Primo",
+      "modelo": "primo",
+      "preco": 9000,
+      "imagem": "https://docs.fivem.net/vehicles/primo.webp"
+    },
+    {
+      "nome": "Benefactor Schafter",
+      "modelo": "schafter2",
+      "preco": 65000,
+      "imagem": "https://docs.fivem.net/vehicles/schafter2.webp"
+    },
+    {
+      "nome": "Declasse Asea",
+      "modelo": "asea",
+      "preco": 12000,
+      "imagem": "https://docs.fivem.net/vehicles/asea.webp"
+    }
+  ],
+  "Esportivos": [
+    {
+      "nome": "Karin Sultan Clássico",
+      "modelo": "sultan2",
+      "preco": 100000,
+      "imagem": "https://docs.fivem.net/vehicles/sultan2.webp"
+    },
+    {
+      "nome": "Pegassi Tempesta",
+      "modelo": "tempesta",
+      "preco": 2700000,
+      "imagem": "https://docs.fivem.net/vehicles/tempesta.webp"
+    },
+    {
+      "nome": "Progen T20",
+      "modelo": "t20",
+      "preco": 2200000,
+      "imagem": "https://docs.fivem.net/vehicles/t20.webp"
+    },
+    {
+      "nome": "Grotti Turismo R",
+      "modelo": "turismor",
+      "preco": 500000,
+      "imagem": "https://docs.fivem.net/vehicles/turismor.webp"
+    },
+    {
+      "nome": "Grotti Itali GTO",
+      "modelo": "italigto",
+      "preco": 1180000,
+      "imagem": "https://docs.fivem.net/vehicles/italigto.webp"
+    },
+    {
+      "nome": "Pfister Comet",
+      "modelo": "comet2",
+      "preco": 100000,
+      "imagem": "https://docs.fivem.net/vehicles/comet2.webp"
+    },
+    {
+      "nome": "Pfister Neon",
+      "modelo": "neon",
+      "preco": 800000,
+      "imagem": "https://docs.fivem.net/vehicles/neon.webp"
+    },
+    {
+      "nome": "Annis Elegy RH8",
+      "modelo": "elegy2",
+      "preco": 95000,
+      "imagem": "https://docs.fivem.net/vehicles/elegy2.webp"
+    }
+  ],
+  "SUV": [
+    {
+      "nome": "Gallivanter Baller",
+      "modelo": "baller2",
+      "preco": 90000,
+      "imagem": "https://docs.fivem.net/vehicles/baller2.webp"
+    },
+    {
+      "nome": "Benefactor Dubsta",
+      "modelo": "dubsta",
+      "preco": 70000,
+      "imagem": "https://docs.fivem.net/vehicles/dubsta.webp"
+    },
+    {
+      "nome": "Pegassi Toros",
+      "modelo": "toros",
+      "preco": 498000,
+      "imagem": "https://docs.fivem.net/vehicles/toros.webp"
+    },
+    {
+      "nome": "Lampadati Novak",
+      "modelo": "novak",
+      "preco": 608000,
+      "imagem": "https://docs.fivem.net/vehicles/novak.webp"
+    }
+  ],
+  "Vans": [
+    {
+      "nome": "Bravado Youga",
+      "modelo": "youga",
+      "preco": 16000,
+      "imagem": "https://docs.fivem.net/vehicles/youga.webp"
+    },
+    {
+      "nome": "Declasse Burrito",
+      "modelo": "burrito3",
+      "preco": 13000,
+      "imagem": "https://docs.fivem.net/vehicles/burrito3.webp"
+    },
+    {
+      "nome": "Bravado Bison",
+      "modelo": "bison",
+      "preco": 30000,
+      "imagem": "https://docs.fivem.net/vehicles/bison.webp"
+    },
+    {
+      "nome": "Vapid Minivan",
+      "modelo": "minivan",
+      "preco": 30000,
+      "imagem": "https://docs.fivem.net/vehicles/minivan.webp"
+    }
+  ]
+}

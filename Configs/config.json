@@ -1,0 +1,19 @@
+{
+  "token": "",
+  "owner": "",
+  "embedColor": "#000000",
+  "defaultCapacity": 50,
+  "porcentagem-seguro": 20,
+  "porcentagem-desmanche": 30,
+  "STARTER": {
+    "dinheiro-mao" : 0,
+    "dinheiro-banco" : 1000 
+  },
+  "revistar": {
+    "permissao": [
+      "IDCARGOADM",
+      "IDCARGOPM",
+      "IDCARGOMED"
+    ]
+  }
+}

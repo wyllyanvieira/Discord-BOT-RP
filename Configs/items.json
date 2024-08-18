@@ -1,0 +1,228 @@
+{
+  "items": [
+      {
+          "id": 1,
+          "name": "Lockpick",
+          "description": "Utilizada para fazer roubos a veiculos e alguns estabelecimentos.",
+          "value": 1000,
+          "weight": 5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 2,
+          "name": "C4",
+          "description": "Utilizado para roubo de grande porte como bancos entre outros.",
+          "value": 500,
+          "weight": 1,
+          "extraCapacity": 0
+      },
+      {
+          "id": 3,
+          "name": "Kit Médico",
+          "description": "Utilizado para restaurar a saúde do jogador.",
+          "value": 100,
+          "weight": 1,
+          "extraCapacity": 0
+      },
+      {
+          "id": 4,
+          "name": "Mochila",
+          "description": "Aumenta a capacidade de carga do jogador.",
+          "value": 200,
+          "weight": 2,
+          "extraCapacity": 20
+      },
+      {
+          "id": 5,
+          "name": "Garrafa d'Água",
+          "description": "Hidrata o jogador e é essencial para sobrevivência.",
+          "value": 10,
+          "weight": 0.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 6,
+          "name": "Hambúrguer",
+          "description": "Alimento que restaura a fome do jogador.",
+          "value": 20,
+          "weight": 0.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 7,
+          "name": "Cerveja",
+          "description": "Bebida alcoólica que pode afetar o desempenho do jogador.",
+          "value": 15,
+          "weight": 0.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 8,
+          "name": "Medkit Avançado",
+          "description": "Um kit médico mais sofisticado, restaura mais saúde.",
+          "value": 200,
+          "weight": 1.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 9,
+          "name": "Pistola Fajuta",
+          "description": "Pistola de alta precisão e capacidade de munição.",
+          "value": 600,
+          "weight": 1,
+          "extraCapacity": 0
+      },
+      {
+          "id": 10,
+          "name": "Pistola MkII",
+          "description": "Pistola poderosa com grande capacidade de dano.",
+          "value": 750,
+          "weight": 1,
+          "extraCapacity": 0
+      },
+      {
+          "id": 11,
+          "name": "Ak-47",
+          "description": "Rifle de assalto padrão com alta cadência de tiro.",
+          "value": 1200,
+          "weight": 6,
+          "extraCapacity": 0
+      },
+      {
+          "id": 12,
+          "name": "Carabina MkII",
+          "description": "Rifle com precisão aprimorada e maior capacidade de munição.",
+          "value": 1300,
+          "weight": 6,
+          "extraCapacity": 0
+      },
+      {
+          "id": 13,
+          "name": "Micro SMG",
+          "description": "Submetralhadora leve e compacta.",
+          "value": 900,
+          "weight": 3,
+          "extraCapacity": 0
+      },
+      {
+          "id": 14,
+          "name": "SMG",
+          "description": "Submetralhadora padrão com alta cadência de tiro.",
+          "value": 1000,
+          "weight": 3.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 15,
+          "name": "Escopeta",
+          "description": "Escopeta com cano serrado para maior impacto.",
+          "value": 900,
+          "weight": 4,
+          "extraCapacity": 0
+      },
+      {
+          "id": 16,
+          "name": "Rifle de Precisão",
+          "description": "Rifle para tiros de longa distância com alta precisão.",
+          "value": 2000,
+          "weight": 7,
+          "extraCapacity": 0
+      },
+      {
+          "id": 17,
+          "name": "Faca",
+          "description": "Arma branca afiada e letal.",
+          "value": 100,
+          "weight": 0.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 18,
+          "name": "Porrete",
+          "description": "Arma de impacto simples e eficaz.",
+          "value": 150,
+          "weight": 1,
+          "extraCapacity": 0
+      },
+      {
+          "id": 19,
+          "name": "Chave Inglesa",
+          "description": "Ferramenta que pode ser usada como arma de impacto.",
+          "value": 120,
+          "weight": 1.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 20,
+          "name": "Canivete",
+          "description": "Arma branca afiada e letal.",
+          "value": 2300,
+          "weight": 0.2,
+          "extraCapacity": 0
+      },
+      {
+          "id": 21,
+          "name": "Munição de Pistola",
+          "description": "Munição para pistolas marcadoras.",
+          "value": 15,
+          "weight": 0.5,
+          "extraCapacity": 0
+      },
+      {
+          "id": 22,
+          "name": "Munição de Fuzil",
+          "description": "Munição para rifles de assalto MK II.",
+          "value": 75,
+          "weight": 0.9,
+          "extraCapacity": 0
+      },
+      {
+          "id": 23,
+          "name": "Munição de SMG",
+          "description": "Munição para SMGs compactas.",
+          "value": 35,
+          "weight": 0.8,
+          "extraCapacity": 0
+      },
+      {
+          "id": 24,
+          "name": "Munição de Rifle de Precisão",
+          "description": "Munição para rifles de precisão MK II.",
+          "value": 110,
+          "weight": 1,
+          "extraCapacity": 0
+      },
+      {
+        "id": 25,
+        "name": "Radinho",
+        "description": "Aparelho de rádio utilizado para se comunicar.",
+        "value": 110,
+        "weight": 0.7,
+        "extraCapacity": 0
+    },
+    {
+        "id": 26,
+        "name": "Celular",
+        "description": "Smartphone com inúmeras funcionalidades",
+        "value": 110,
+        "weight": 0.3,
+        "extraCapacity": 0
+    },
+    {
+        "id": 27,
+        "name": "Máscara",
+        "description": "Acessório de uso facial.",
+        "value": 110,
+        "weight": 0.1,
+        "extraCapacity": 0
+    },
+    {
+        "id": 28,
+        "name": "Dinheiro sujo",
+        "description": "Dinheiro sem procedência e ilegal",
+        "value": 110,
+        "weight": 0,
+        "extraCapacity": 0
+    }
+  ]
+}

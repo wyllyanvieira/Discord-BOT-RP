@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "question": "O que significa VDM?",
+      "options": ["A) Veículo de Defesa Militar", "B) Veículo de Dano Máximo", "C) Utilizar Veiculo como Arma", "D) Veículo de Manutenção Diária"],
+      "correctOption": 2
+    },
+    {
+      "question": "O que é RDM?",
+      "options": ["A) Roubo de Dinheiro Múltiplo", "B) Matar Alguem Sem motivo", "C) Recrutamento de Membros", "D) Regras de Morte Diária"],
+      "correctOption": 1
+    },
+    {
+      "question": "O que é CL?",
+      "options": ["A) Comando de Liderança", "B) Chat Local", "C) Combat Logging (Deslogar em Combate)", "D) Carregamento Lento"],
+      "correctOption": 2
+    },
+    {
+      "question": "O que é PG??",
+      "options": ["A) Protagonismo", "B) Abusar das mecânicas do jogo", "C) Participação Grupal", "D) Passagem de Grau"],
+      "correctOption": 1
+    },
+    {
+      "question": "O que é META?",
+      "options": ["A) Utilizar informações adquiridas fora do jogo", "B) Usar exploits do jogo", "C) Comprar itens de outros jogadores", "D) Formar gangues no servidor"],
+      "correctOption": 0
+    },
+    {
+      "question": "O que é DARK RP?",
+      "options": ["A) Fazer RP de roupa preta", "B) Roubar um carro estacionado", "C) Correr de um tiroteio", "D) Fazer RP com um contexto pesado (tortura, assédio sexual, racismo..."],
+      "correctOption": 3
+    },
+    {
+      "question": "O que são SAFE ZONES?",
+      "options": ["A) Locais reservados para treinar e socializar.", "B) Área de um ataque", "C) Locais que não se pode ferir ou roubar.", "D) Participações em missões"],
+      "correctOption": 2
+    },
+    {
+      "question": "O que é amor á vida?",
+      "options": ["A) Deslogar do jogo durante uma situação de combate", "B) Amar muito seu parceiro", "C) Iniciar uma briga em um lugar público", "D) Valorizar a vida como se ela fosse única"],
+      "correctOption": 3
+    },
+    {
+      "question": "Qual é a atitude correta ao ser abordado pela polícia em um RP?",
+      "options": ["A) Fugir imediatamente", "B) Cooperar e seguir as instruções do oficial", "C) Deslogar do servidor", "D) Atirar na polícia"],
+      "correctOption": 1
+    },
+    {
+      "question": "O que deve ser feito ao presenciar uma violação de regras no servidor?",
+      "options": ["A) Ignorar e seguir jogando", "B) Reportar ao administrador ou moderador", "C) Confrontar o infrator", "D) Deslogar do servidor"],
+      "correctOption": 1
+    },
+    {
+      "question": "Qual é a consequência de desrespeitar as regras de RP no servidor?",
+      "options": ["A) Banimento temporário ou permanente", "B) Receber dinheiro no jogo", "C) Ganhar uma missão especial", "D) Aumentar o nível de personagem"],
+      "correctOption": 0
+    }
+  ],
+  "essayQuestions": [
+      "Qual é seu nome na vida Real:",
+      "Qual o nome do seu personagem:",
+      "Qual é a sua PSN:",
+      "Qual é a sua Social Club:"
+    ],
+  "channelresult":"1259534023731056680",
+  "roleaproved" : "995801637882974249"
+}

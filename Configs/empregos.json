@@ -1,0 +1,23 @@
+{
+  "PESCADOR" : {
+    "pagamento" : {
+      "lose": 1000,
+      "win": 2000
+    },
+    "logChannel": "1256610672066822286",
+    "callEmprego": "ID_DA_CALL"
+  },
+
+  
+  "lenhador": {
+    "trees": [
+      { "tipo": "Carvalho", "valor": 100 },
+      { "tipo": "Pinheiro", "valor": 80 },
+      { "tipo": "Cedro", "valor": 120 },
+      { "tipo": "Bétula", "valor": 90 }
+    ],
+    "logChannelId": "ID_DA_CALL" ,
+    "callEmprego": "ID_DA_CALL" 
+  }
+  
+}

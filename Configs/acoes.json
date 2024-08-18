@@ -1,0 +1,47 @@
+{
+  "loja": {
+    "max": 600000,
+    "min": 300000,
+    "imagemURL": "https://64.media.tumblr.com/tumblr_m8d043kgVD1ql5muoo1_500.gif",
+    "tempo": 1200000,
+    "alertaCargo": "ID CARGO DA POLICIA",
+    "alertaCanal": "ID CANAL DE COPOM",
+    "mensagemAlerta": "🚨 Atenção! Um assalto está ocorrendo na loja!"
+  },
+  "banco": {
+    "max": 1500000,
+    "min": 700000,
+    "imagemURL": "https://i.ytimg.com/vi/iMtIAgVrQ0k/maxresdefault.jpg",
+    "tempo": 1800000,
+    "alertaCargo": "ID CARGO DA POLICIA",
+    "alertaCanal": "ID CANAL DE COPOM",
+    "mensagemAlerta": "🚨 Atenção! Um assalto está ocorrendo no banco!"
+  },
+  "fleeca_bank": {
+    "max": 1000000,
+    "min": 500000,
+    "imagemURL": "https://i.ytimg.com/vi/iMtIAgVrQ0k/maxresdefault.jpg",
+    "tempo": 1500000,
+    "alertaCargo": "ID CARGO DA POLICIA",
+    "alertaCanal": "ID CANAL DE COPOM",
+    "mensagemAlerta": "🚨 Atenção! Um assalto está ocorrendo no Fleeca Bank!"
+  },
+  "Joalheria": {
+    "max": 2000000,
+    "min": 800000,
+    "imagemURL": "https://sm.ign.com/ign_br/screenshot/default/gta-5-golpe-joias-barulhenta-1_tkc1.jpg",
+    "tempo": 1800000,
+    "alertaCargo": "ID CARGO DA POLICIA",
+    "alertaCanal": "ID CANAL DE COPOM",
+    "mensagemAlerta": "🚨 Atenção! Um assalto está ocorrendo na joalheria!"
+  },
+  "ATM": {
+    "max": 300000,
+    "min": 100000,
+    "imagemURL": "https://static.wikia.nocookie.net/gta/images/e/e8/FLEECA-ATM-GTAV.png/revision/latest?cb=20170516170947&path-prefix=pt",
+    "tempo": 800000,
+    "alertaCargo": "ID CARGO DA POLICIA",
+    "alertaCanal": "ID CANAL DE COPOM",
+    "mensagemAlerta": "🚨 Atenção! Um roubo está ocorrendo no caixa eletrônico!"
+  }
+}

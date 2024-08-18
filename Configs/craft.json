@@ -1,0 +1,138 @@
+{
+    "crafts": [
+      {
+        "name": "Munição 9mm",
+        "items_required": [
+          {"id": 79, "quantity": 2},
+          {"id": 84, "quantity": 1}
+        ],
+        "result": {"id": 7, "quantity": 25},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Munição Rifle",
+        "items_required": [
+          {"id": 79, "quantity": 4},
+          {"id": 84, "quantity": 2}
+        ],
+        "result": {"id": 8, "quantity": 25},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Pistola de Combate",
+        "items_required": [
+          {"id": 80, "quantity": 1},
+          {"id": 103, "quantity": 2}
+        ],
+        "result": {"id": 11, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Pistola .50",
+        "items_required": [
+          {"id": 80, "quantity": 1},
+          {"id": 84, "quantity": 3}
+        ],
+        "result": {"id": 12, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "SNS Pistola",
+        "items_required": [
+          {"id": 80, "quantity": 1},
+          {"id": 84, "quantity": 1}
+        ],
+        "result": {"id": 13, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Pistola Pesada",
+        "items_required": [
+          {"id": 80, "quantity": 1},
+          {"id": 84, "quantity": 3}
+        ],
+        "result": {"id": 14, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Rifle de Assalto",
+        "items_required": [
+          {"id": 83, "quantity": 1},
+          {"id": 84, "quantity": 5}
+        ],
+        "result": {"id": 16, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Rifle Carabina",
+        "items_required": [
+          {"id": 83, "quantity": 1},
+          {"id": 84, "quantity": 6}
+        ],
+        "result": {"id": 17, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Rifle Avançado",
+        "items_required": [
+          {"id": 83, "quantity": 1},
+          {"id": 84, "quantity": 7}
+        ],
+        "result": {"id": 18, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Lockpick",
+        "items_required": [
+          {"id": 86, "quantity": 1}
+        ],
+        "result": {"id": 1, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "C4",
+        "items_required": [
+          {"id": 85, "quantity": 3}
+        ],
+        "result": {"id": 2, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Rifle Bullpup",
+        "items_required": [
+          {"id": 83, "quantity": 1},  
+          {"id": 84, "quantity": 8}   
+        ],
+        "result": {"id": 19, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Rifle Compacto",
+        "items_required": [
+          {"id": 83, "quantity": 1},  
+          {"id": 84, "quantity": 7}   
+        ],
+        "result": {"id": 20, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "Micro SMG",
+        "items_required": [
+          {"id": 81, "quantity": 1},  
+          {"id": 84, "quantity": 4}  
+        ],
+        "result": {"id": 23, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      },
+      {
+        "name": "SMG",
+        "items_required": [
+          {"id": 81, "quantity": 1},  
+          {"id": 84, "quantity": 5}   
+        ],
+        "result": {"id": 24, "quantity": 1},
+        "roles": ["ID_DO CARGOS"]
+      }
+    ]
+  }
+  
