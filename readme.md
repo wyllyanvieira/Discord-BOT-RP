@@ -104,13 +104,10 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 ## Tecnologias Utilizadas
 
 - **Node.js**
-- **discord.js**
-- **MongoDB (ou outro banco de dados de sua escolha)**
-- **Heroku/Vercel (ou outro serviço de hospedagem para o bot)**
-
-## Suporte
-
-Se você encontrar algum problema ou tiver alguma dúvida, sinta-se à vontade para abrir uma issue ou entrar em contato.
+- **Discord.js**
+- **Gamecord**
+- **SQLLITE**
+- **Discloud/Vercel (ou outro serviço de hospedagem para o bot)**
 
 ## Licença
 
